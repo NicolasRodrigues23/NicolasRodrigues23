@@ -1,4 +1,4 @@
-### Oi, meu nome é Nicolas Rodrigues 😁
+### Oi, meu nome é Nicolas Rodrigues. Bem vindo ao meu perfil 😁
 
 <div align="center"> 
    <a href="HTTPS://github.com/NicolasRodrigues23"> 
