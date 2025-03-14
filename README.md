@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
-</div>
-
-# Bem-vindo ao meu perfil! 😁
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Bem-vindo ao meu perfil! 😁  
 
 ## 🧑‍💻 Sobre Mim  
 
