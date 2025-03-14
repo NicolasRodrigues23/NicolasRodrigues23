@@ -41,7 +41,8 @@ Meu objetivo é **crescer profissionalmente** e contribuir para projetos inovado
 
 <div align="left">  
   Fique a vontade de entrar em contato comigo
-</br>
+  </br>
+  </br>
   <a href="mailto:nicolasrod1411@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>  
