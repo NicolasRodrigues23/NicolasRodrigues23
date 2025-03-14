@@ -24,10 +24,15 @@ Meu objetivo é **crescer profissionalmente** e contribuir para projetos inovado
 ## 🚀 Tecnologias que domino  
 
 <div align="center">  
-  <img src="https://img.shields.io/badge/-Csharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=for-the-badge&logo=aspnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
 </div>
 
 ---
