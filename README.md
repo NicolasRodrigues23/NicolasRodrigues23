@@ -1,8 +1,8 @@
-# 👋 Oi, meu nome é Nicolas Rodrigues! Bem-vindo ao meu perfil 😁
-
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
 </div>
+
+# Bem-vindo ao meu perfil! 😁
 
 ## 🧑‍💻 Sobre Mim  
 
