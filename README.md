@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi meu nome é Nicolas, Seja Bem-vindo ao meu perfil! 😁  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Oi meu nome é Nicolas, Bem-vindo ao meu perfil! 😁  
 
 ## 🧑‍💻 Sobre Mim  
 
