@@ -10,7 +10,7 @@ Meu objetivo é **crescer profissionalmente** e contribuir para projetos inovado
 
 ---
 
-## ⚡ Minhas Estatísticas no GitHub  
+## ⚡GitHub Stats  
 
 <div align="center"> 
   <a href="https://github.com/NicolasRodrigues23">
@@ -21,7 +21,7 @@ Meu objetivo é **crescer profissionalmente** e contribuir para projetos inovado
 
 ---
 
-## 🚀 Tecnologias que domino  
+## 🚀 Minhas Tecnologias  
 
 <div align="center">  
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -40,6 +40,7 @@ Meu objetivo é **crescer profissionalmente** e contribuir para projetos inovado
 ## 📬 Como me encontrar  
 
 <div align="center">  
+  Fique a vontade de entrar em contato comigo
   <a href="mailto:nicolasrod1411@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>  
