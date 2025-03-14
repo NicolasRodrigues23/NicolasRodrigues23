@@ -23,7 +23,7 @@ Meu objetivo é **crescer profissionalmente** e contribuir para projetos inovado
 
 ## 🚀 Minhas Tecnologias  
 
-<div align="center">  
+<div align="left">  
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=for-the-badge&logo=aspnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -39,8 +39,9 @@ Meu objetivo é **crescer profissionalmente** e contribuir para projetos inovado
 
 ## 📬 Como me encontrar  
 
-<div align="center">  
+<div align="left">  
   Fique a vontade de entrar em contato comigo
+</br>
   <a href="mailto:nicolasrod1411@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>  
